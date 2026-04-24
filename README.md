@@ -2,9 +2,9 @@
 
 ```js
 const summerlane = {
-  name: Kyu Hwa Lee,
-  location: Seoul,
-  job: Frontend Developer,
+  name: "Kyu Hwa Lee",
+  location: "Seoul, KOREA",
+  job: "Frontend Developer",
 }
 
 
