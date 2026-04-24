@@ -5,7 +5,7 @@ const summerlane = {
   name: "Kyu Hwa Lee",
   location: "Seoul, KOREA",
   job: "Frontend Developer",
-}
+};
 
 
 ```
