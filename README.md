@@ -5,6 +5,7 @@ const summerlane = {
   name: "Kyu Hwa Lee",
   location: "Seoul, KOREA",
   job: "Frontend Developer",
+  email: "punkwagon@gmail.com",
 };
 
 
@@ -32,3 +33,5 @@ const summerlane = {
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 📌 Portfolio
+https://q-pf.netlify.app
