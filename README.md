@@ -34,4 +34,4 @@ const summerlane = {
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📌 Portfolio
-<a href="https://q-pf.netlify.app" target="_blank">바로가기</a>
+<a href="https://q-pf.netlify.app" target="_blank" rel="noopener noreferrer">바로가기</a>
